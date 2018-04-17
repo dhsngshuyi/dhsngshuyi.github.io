@@ -1,29 +1,12 @@
 
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html>
-<link rel="stylesheet" type="text/css" href="style1.css">
+<head>
+<link rel="stylesheet" href="style.css" />
+<title> CCA Achievements</title>
+</head>
 <body>
-<h1> All About Me</h1>
-<title> This is my website </title>
-<h2> Below are my Senior High Students of the Robotics Club </h2>
-<img src="photo.jpg" width="400" height="200" alt="photo" />
-<img src="XC Team Props better.JPG"width="400" height="200" alt="XC Team Props better"/>
-<img src="XC Team Unmasked.JPG"width="400" height="200" alt="XC Team Unmasked"/>
-
-<p>
-My name is Pang Hai Chet. I am a teacher of Dunman High School. Teaching in Year 1 and Year 2 in high school. </p>
-<p>
-Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>. </p>
-
-<br>
-<p>Here are the things Mr. Mark loves to do the most : </p> 
-<ul>
-<li>Climbing Mountains</li>
-<a href="http://www.trailadventours.com/philippine-mountains/mt-pulag"> Climbed Mt. Pulag </a>
-<li>Travelling and Exploring Places</li>
-<li>Reading Adventure Books</li>
-</ul>
-<p><a href="/test1.html">Test Page</a>
-  
+<h2>I play table tennis in primary school.</h2>
 </body>
+
 </html>
